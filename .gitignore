@@ -1,0 +1,5 @@
+.workbuddy/
+*.asv
+*.m~
+*.slx.r*
+*.autosave
